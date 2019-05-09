@@ -1,0 +1,25 @@
+.Select {
+
+  display: grid;
+  grid-gap: 1px;
+  grid-template-columns: repeat(3, 1fr)
+  /* grid-template-rows: repeat(3, 10vw); */
+
+}
+
+.chosen {
+  display: grid;
+  border-style: solid;
+  border-color: black;
+  margin: 2px;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  width: 800px;
+  height: 800px;
+}
+
+
+.cell {
+  border-style: solid;
+  border-color: black;
+}

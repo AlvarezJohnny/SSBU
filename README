@@ -1,0 +1,8 @@
+Set up HTML template, assign the css file into the html
+In the body, I have set up a div with a class name to store up all image links
+Find 9 characters and fill in the img attribute with images
+Also assign classes to each image to interact with anyone of them if needed
+
+In the CSS, write the name class name to interact with all images at once
+Used the display:grid attribute to align all pictures
+Then used the grid-template-columns and set it to 3 to have the 3x3 grid
